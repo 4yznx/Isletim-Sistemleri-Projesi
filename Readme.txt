@@ -1,3 +1,5 @@
+Bu proje, bir komut satırı yorumlayıcısı (kabuk) uygulamasını geliştirmeyi hedefler. Proje kapsamında kullanıcı komutlarını alabilen, komutları çalıştıran, giriş/çıkış yönlendirmesi yapan, boru (pipe) mekanizmasını destekleyen ve arka planda işlem çalıştırabilen bir sistem tasarlanmıştır.
+
 Grup -> 19
 
 B211210572 -> Yazan Alsolyman
